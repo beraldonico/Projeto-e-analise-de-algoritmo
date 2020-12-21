@@ -1,0 +1,17 @@
+Pesquise em livros sobre como provar que o problema formula satisfability (SAT) é NP-Completo a partir de problema NP-Completo circuit satisfability (CIRCUIT-SAT). 
+
+Uitlizando suas palavras, faça
+
+1. Defina (diga o que é) o problema CIRCUIT-SAT e dê um exemplo.
+
+2. Defina (diga o que é) o problema SAT e dê um exemplo.
+
+3. Descreva uma função que reduz CIRCUIT-SAT a SAT
+
+4. Explique por que a função usa tempo polinomial
+
+5. Com base em 4, explique por que uma solução de CIRCUIT-SAT é uma solução de SAT.
+
+6. Cite o livro que você utilizou
+
+7. Submeta usa tarefa no formato PDF.
